@@ -32,5 +32,8 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Content/Iino"
 	]
 }
